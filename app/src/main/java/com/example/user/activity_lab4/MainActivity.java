@@ -1,0 +1,56 @@
+package com.example.user.activity_lab4;
+
+
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.widget.Button;
+import android.widget.TextView;
+import android.content.Intent;
+import android.view.View;
+
+
+public class MainActivity extends AppCompatActivity {
+    Button btn ;
+    TextView t_drink ;
+    TextView t_sugar ;
+    TextView t_ice ;
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        btn = (Button) findViewById(R.id.sent) ;
+        btn.setOnClickListener(new View.OnClickListener(){
+            public  void  onClick(View v)
+            {
+                Intent i = new Intent();
+                i.setClass(MainActivity.this, Main2Activity.class);
+                startActivityForResult(i, 0);
+            }
+        });
+    }
+    protected void onActivityResult (int requestCode, int resultCode, Intent data)
+
+    {
+        if(requestCode == 0)
+        {
+            if (resultCode==101)//你剛這裡打錯 知道了 那align還要處理嗎
+            {
+                Bundle b = data.getExtras() ;
+                String str1 = b.getString("drink_level") ;
+                String str2 = b.getString("sugar_level") ;
+                CharSequence str3 = b.getString("ice_level") ;
+
+                t_drink = (TextView) findViewById(R.id.drink) ;
+                t_sugar = (TextView) findViewById(R.id.sugar) ;
+                t_ice = (TextView) findViewById(R.id.ice) ;
+
+                t_drink.setText(str1);
+                t_sugar.setText(str2);
+                t_ice.setText(str3);
+            }
+        }
+    }
+}
+

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\6fdb6b094267cddf329fe3463e00d1ce24cb81da\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e6423484c6d4f4e0e49e7e1b4444d34e1f1335f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_de4a646ca453efd53589557820cfff55482253f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\90dd6d9e18177961cc716ab69fef45034b05cb42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_8382d47673cb6f1d7e24d0ed9ff40f18f674269b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\0d328b2b3df26947348b9162870691b2164b2b75\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3e7b11c969608541148e583a08e245edc7a7c8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\4d1febf3a721d51353d1bb68f406aa62bdfabfa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_4a346d4de3760926d7b66b68e20c2b4e9f097712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\4d1febf3a721d51353d1bb68f406aa62bdfabfa1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a728ddd91d32469ba188564f2bbe971c4fe3f7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\90dd6d9e18177961cc716ab69fef45034b05cb42\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_46c67b0eb0e5b2bc6a19a001e4066726030d5270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\d21a9bb517f69e0b4757dab6d1923e6786bdcd2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_6212fbd1e3a6738944fdb80c2f2ecc8c61760867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\bb262449b0da5822bdb1f49318201677536bf24b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_f044837df1240b33227aae1f546016a1e1fbe8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\0d328b2b3df26947348b9162870691b2164b2b75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_6834950db225b98ff72a5f5f0f76218546db3c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6eb5b0421016e03d19047a5dd1efdd7c7a6709e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\81209f6abe0591ff0d3d3c2566378134bbc81996\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f717c6ad79d94e68d4fefa12ca90cc493e663bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\91310318d3c31669df3c11e5a2b78369f550714c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_1cb0221f3f05a8323facd7d857a04e6fbf094a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\6fdb6b094267cddf329fe3463e00d1ce24cb81da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_3f6f3c87b2a438c73bfa66f543eda63872d6f673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\45140b3deb80a9f713a2d09028b7506e5016ea58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_a6cd21db818db3531fd296c4ed9cce8a48a74dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\3ba59445b89073c536ded9d1c7413b8391e7b2f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_0c163415526bce0306e15877905167f4900ce402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\81209f6abe0591ff0d3d3c2566378134bbc81996\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\106_1 ntut\Applications software design practice\lab_in class\Activity_Lab4\app\build\intermediates\pre-dexed\debug\classes_db06f8bbfdc523e5f4b47f9802bad927893f50b3.jar" />
+    </item>
+
+</items>
